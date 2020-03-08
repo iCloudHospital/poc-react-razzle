@@ -1,0 +1,12 @@
+logs
+*.log
+npm-debug.log*
+.DS_Store
+
+coverage
+node_modules
+build
+.env.local
+.env.dev
+.env.stg
+.env.prd
