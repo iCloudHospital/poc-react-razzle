@@ -11,7 +11,7 @@
   background-color: #222;
   height: 150px;
   padding: 20px;
-  color: white;
+  color: blueviolet;
 }
 
 .Home-intro {
@@ -19,7 +19,7 @@
 }
 
 .Home-resources {
-  list-style: none;
+  /* list-style: none; */
 }
 
 .Home-resources > li {
